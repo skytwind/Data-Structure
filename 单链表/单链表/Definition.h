@@ -1,6 +1,4 @@
 #pragma once
-#ifndef __DEFINITION_H
-#define __DEFINITION_H
 
 #define TRUE 1  // 函数运行正确返回TRUE
 #define ERROR 0 // 出错时函数返回ERROR
@@ -21,4 +19,3 @@ typedef struct LNode
 	struct LNode *next; 
 }LinkList;
 
-#endif 
