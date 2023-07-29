@@ -1,2 +1,5 @@
-﻿  main.c
+﻿  LinkList_Operation.c
+C:\Users\刘亦可\Desktop\数据结构\Data-Structure\单链表\单链表\LinkList_Operation.c(23,3): warning C4013: “printf”未定义；假设外部返回 int
+  main.c
+  正在生成代码...
   单链表.vcxproj -> C:\Users\刘亦可\Desktop\数据结构\Data-Structure\单链表\x64\Debug\单链表.exe
